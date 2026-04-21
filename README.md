@@ -1,8 +1,6 @@
 #  Hi, I'm Rey
 Backend-Focused Developer  
 ## Tech Stack
-
-**Backend** 
 - PHP (Laravel)
 - MySQL
 - JS (Vue / Ts)
