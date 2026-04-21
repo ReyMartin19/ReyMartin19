@@ -1,28 +1,14 @@
 #  Hi, I'm Rey
 
 IT Student | Backend-Focused Developer  
-Currently building systems using Laravel, Vue, and biometric integrations  
-
----
-
-## About Me
-
-- IT student with a focus on real-world systems
-- Working on attendance/DTR systems (Anviz, CrossChex, MSSQL → MySQL pipelines)
-- Currently learning:
-  - Laravel (deep dive into backend architecture)
-  - Vue (frontend integration)
-  - Git & GitHub workflows (version control discipline)
-- Interested in system design, automation, and data flow optimization
-
 ---
 
 ## Tech Stack
 
-**Backend**
-- Laravel
-- PHP
-- MySQL / MSSQL
+**Backend** **Frontend**
+- Laravel   - Vue.js
+- PHP       - Vite
+- MySQL     - HTML / CSS / JavaScript
 
 **Frontend**
 - Vue.js
